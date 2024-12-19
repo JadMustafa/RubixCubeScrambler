@@ -20,6 +20,7 @@ Welcome to the **Rubik's Cube Scrambler and Timer** project! This program genera
 - A Windows system (uses Windows-specific headers like `<windows.h>`).
 - C++ compiler (e.g., GCC, Clang, or MSVC).
 - A text editor or IDE for compiling and running the program.
+Or Skipped entirely Via running the .exe
 
 ---
 
