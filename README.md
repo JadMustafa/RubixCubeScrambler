@@ -126,3 +126,6 @@ For questions or feedback, feel free to reach out:
 - **Email**: No Publicly accessible Email :)
 - **GitHub**: [JadMustafa](https://github.com/JadMustafa)
 
+This software is licensed under the MIT [License](https://opensource.org/licenses/MIT).
+It is free to use, modify, and distribute, provided that proper credit is given to the original creator of this program. 
+The Creator of this Program is not liable for any damages or losses that may occur from the use of this program.
