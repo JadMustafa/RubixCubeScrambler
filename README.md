@@ -17,9 +17,11 @@ Welcome to the **Rubik's Cube Scrambler and Timer** project! This program genera
 
 ### Prerequisites
 
-- A Windows system (uses Windows-specific headers like `<windows.h>`).
+- A **Windows system** (uses Windows-specific headers like `<windows.h>`).
 - C++ compiler (e.g., GCC, Clang, or MSVC).
 - A text editor or IDE for compiling and running the program.
+---
+- Or Skipped entirely Via running the .exe - it will automatically run the Program, already complied exe
 
 ---
 
@@ -124,3 +126,6 @@ For questions or feedback, feel free to reach out:
 - **Email**: No Publicly accessible Email :)
 - **GitHub**: [JadMustafa](https://github.com/JadMustafa)
 
+This software is licensed under the MIT [License](https://opensource.org/licenses/MIT).
+It is free to use, modify, and distribute, provided that proper credit is given to the original creator of this program. 
+The Creator of this Program is not liable for any damages or losses that may occur from the use of this program.
