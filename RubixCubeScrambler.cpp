@@ -13,6 +13,8 @@ Version 1.1: 12/19/2024
     - Added User Authentication For Local Host only 
         - Usernames and Passwords are stored in a file, found in the same directory as the program
     - Enhanced Timer Functionality
+
+TODO: Enchance Scrambling Algorithm, Add More Cube Sizes, Add More Timer Functionality.
 */
 #include <iostream>
 #include <string>
